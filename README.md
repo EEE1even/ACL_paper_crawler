@@ -8,5 +8,5 @@ pip install bs4 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 执行(execute)
 ```
-python crawler.py --year 2024 --keyword 
+python crawler.py --year 2024 --keyword NLP
 ```
